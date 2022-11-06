@@ -7,11 +7,12 @@ namespace HelloWorld
         public static void Main()
         {
             Console.WriteLine("Hello, World!");
+            GreetBlack();
         }
 
         public static void GreetBlack()
         {
-            Console.WriteLine("hello black")
+            Console.WriteLine("hello black");
         }
     }
 }
