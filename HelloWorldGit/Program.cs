@@ -8,5 +8,10 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello, World!");
         }
+
+        public static void GreetBlack()
+        {
+            Console.WriteLine("hello black")
+        }
     }
 }
